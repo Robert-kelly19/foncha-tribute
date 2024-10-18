@@ -1,62 +1,72 @@
-.ronaldo{
-background-color: lightgrey;
-border-radius: 5px;
+.ronaldo {
+  background-color: lightgrey;
+  border-radius: 5px;
 }
-.ronaldo h1{
-    text-align: center;
-    font-weight: bolder;
-    font-size: 50px;
-    padding-top: 80px;
+
+.ronaldo h1 {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 50px;
+  padding-top: 80px;
 }
-.ronaldo h3{
-    text-align: center;
-    font-size: 25px;
-    margin-top: -5px;
+
+.ronaldo h3 {
+  text-align: center;
+  font-size: 25px;
+  margin-top: -5px;
 }
-.ronaldo img{
-    border-color: white;
-    justify-items: center;
-    height: 600px;
+
+.ronaldo img {
+  border-color: white;
+  justify-items: center;
+  height: 600px;
 }
-.borderimg{
-    display: block;
-    justify-content: center;
-    align-items: center;
-    background-color: white;
-    margin-left: 20px;
-    margin-right: 20px;
+
+.borderimg {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  margin-left: 20px;
+  margin-right: 20px;
 }
-.borderimg img{
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 150px;
+
+.borderimg img {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 150px;
 }
-.ronaldo h2{
-    text-align: center;
-    font-weight: bolder;
-    font-size: 30px;
+
+.ronaldo h2 {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
 }
-.borderimg p{
-    text-align: center;
-    font-weight: bold;
-    font-size: 20px;
+
+.borderimg p {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
 }
-.ronaldo p{
-    text-align: center;
-    font-style: italic;
-    font-weight: lighter;
-    font-size: 20px;    
+
+.ronaldo p {
+  text-align: center;
+  font-style: italic;
+  font-weight: lighter;
+  font-size: 20px;    
 }
-.list ul{
-    max-width: 550px;
-    margin: 0 auto 50px auto;
-    text-align: left;
-    line-height: 1.6;
-    display: block;
+
+.list ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+  display: block;
     
 }
-.ronaldo h4{
-    text-align: center;
-    font-weight: bolder;
-    font-size: 20px;
+
+.ronaldo h4 {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 20px;
 }
